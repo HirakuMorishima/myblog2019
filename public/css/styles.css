@@ -1,0 +1,32 @@
+body {
+    font-family: "Gill Sans", sans-serif;
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    
+}
+
+h1 {
+    font-size: 30px;
+    border-bottom: 1px solid gray;
+}
+
+ul > li {
+    list-style: none;
+}
+
+.header-menu {
+    float: right;
+}
+
+input[type="text"], textarea {
+    width: 400px;
+    box-sizing: border-box;
+}
+
+textarea {
+    height: 400px;
+}
